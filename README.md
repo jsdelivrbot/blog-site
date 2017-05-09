@@ -5,7 +5,7 @@
 
 ```
 > git clone https://github.com/AABlain/blog-site.git
-> cd ReduxSimpleStarter
+> cd blog-site
 > npm install
 > npm start
 ```
